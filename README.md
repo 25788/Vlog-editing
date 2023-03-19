@@ -1,6 +1,6 @@
 # Vlog-editing
 MoviePy kütüphanesini kullanarak kendi çektiğim videolarla basit bir vlog ortaya çıkardım.
-Introsu için ise animation text yarattım ve copyright sorunu olmayan bir müzikle hepsini birleştrdim :)
+Introsu için ise animation text yarattım ve copyright sorunu olmayan bir müzikle hepsini birleştirdim :)
 
 
 
